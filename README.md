@@ -135,7 +135,7 @@ The system will now:
 Contributions are welcome! Please feel free to submit pull requests or create issues for bugs and feature requests.
 
 ## License
-
+MIT
 
 ## Acknowledgements
 
